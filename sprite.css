@@ -9,39 +9,21 @@ Icon classes can be used entirely standalone. They are named after their origina
 <img class="icon-home" />
 ```
 */
-.icon-arrow-bottom-8x {
-  background-image: url(sprite.png);
-  background-position: 0px 0px;
-  width: 64px;
-  height: 64px;
-}
 .icon-arrow-circle-bottom-4x {
   background-image: url(sprite.png);
-  background-position: 0px -132px;
+  background-position: -66px 0px;
   width: 32px;
   height: 32px;
 }
-.icon-arrow-circle-bottom-8x {
-  background-image: url(sprite.png);
-  background-position: -66px 0px;
-  width: 64px;
-  height: 64px;
-}
 .icon-arrow-circle-bottom {
   background-image: url(sprite.png);
-  background-position: -132px 0px;
+  background-position: 0px -66px;
   width: 8px;
   height: 8px;
 }
-.icon-arrow-circle-left-8x {
-  background-image: url(sprite.png);
-  background-position: 0px -66px;
-  width: 64px;
-  height: 64px;
-}
 .icon-arrow-circle-right-8x {
   background-image: url(sprite.png);
-  background-position: -66px -66px;
+  background-position: 0px 0px;
   width: 64px;
   height: 64px;
 }
