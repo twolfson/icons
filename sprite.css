@@ -15,12 +15,6 @@ Icon classes can be used entirely standalone. They are named after their origina
   width: 64px;
   height: 64px;
 }
-.icon-arrow-bottom {
-  background-image: url(sprite.png);
-  background-position: -34px -132px;
-  width: 8px;
-  height: 8px;
-}
 .icon-arrow-circle-bottom-4x {
   background-image: url(sprite.png);
   background-position: 0px -132px;
@@ -35,33 +29,15 @@ Icon classes can be used entirely standalone. They are named after their origina
 }
 .icon-arrow-circle-bottom {
   background-image: url(sprite.png);
-  background-position: -44px -132px;
+  background-position: -132px 0px;
   width: 8px;
   height: 8px;
-}
-.icon-arrow-circle-left-4x {
-  background-image: url(sprite.png);
-  background-position: -132px 0px;
-  width: 32px;
-  height: 32px;
 }
 .icon-arrow-circle-left-8x {
   background-image: url(sprite.png);
   background-position: 0px -66px;
   width: 64px;
   height: 64px;
-}
-.icon-arrow-circle-left {
-  background-image: url(sprite.png);
-  background-position: -54px -132px;
-  width: 8px;
-  height: 8px;
-}
-.icon-arrow-circle-right-4x {
-  background-image: url(sprite.png);
-  background-position: -132px -34px;
-  width: 32px;
-  height: 32px;
 }
 .icon-arrow-circle-right-8x {
   background-image: url(sprite.png);
