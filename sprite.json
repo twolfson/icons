@@ -1,0 +1,71 @@
+{
+    "arrow-circle-bottom-4x": {
+        "x": 66,
+        "y": 0,
+        "width": 32,
+        "height": 32,
+        "source_image": "/home/todd/github/icons/png/arrow-circle-bottom-4x.png",
+        "image": "sprite.png",
+        "total_width": 98,
+        "total_height": 64,
+        "offset_x": -66,
+        "offset_y": 0,
+        "px": {
+            "x": "66px",
+            "y": "0px",
+            "offset_x": "-66px",
+            "offset_y": "0px",
+            "height": "32px",
+            "width": "32px",
+            "total_height": "64px",
+            "total_width": "98px"
+        },
+        "escaped_image": "sprite.png"
+    },
+    "arrow-circle-bottom": {
+        "x": 66,
+        "y": 34,
+        "width": 8,
+        "height": 8,
+        "source_image": "/home/todd/github/icons/png/arrow-circle-bottom.png",
+        "image": "sprite.png",
+        "total_width": 98,
+        "total_height": 64,
+        "offset_x": -66,
+        "offset_y": -34,
+        "px": {
+            "x": "66px",
+            "y": "34px",
+            "offset_x": "-66px",
+            "offset_y": "-34px",
+            "height": "8px",
+            "width": "8px",
+            "total_height": "64px",
+            "total_width": "98px"
+        },
+        "escaped_image": "sprite.png"
+    },
+    "arrow-circle-right-8x": {
+        "x": 0,
+        "y": 0,
+        "width": 64,
+        "height": 64,
+        "source_image": "/home/todd/github/icons/png/arrow-circle-right-8x.png",
+        "image": "sprite.png",
+        "total_width": 98,
+        "total_height": 64,
+        "offset_x": 0,
+        "offset_y": 0,
+        "px": {
+            "x": "0px",
+            "y": "0px",
+            "offset_x": "0px",
+            "offset_y": "0px",
+            "height": "64px",
+            "width": "64px",
+            "total_height": "64px",
+            "total_width": "98px"
+        },
+        "escaped_image": "sprite.png"
+    }
+}
