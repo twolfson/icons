@@ -2,11 +2,7 @@
 Icon classes can be used entirely standalone. They are named after their original file names.
 
 ```html
-<!-- `display: block` sprite -->
-<div class="icon-home"></div>
-
-<!-- `display: inline-block` sprite -->
-<img class="icon-home" />
+<i class="icon-home"></i>
 ```
 */
 .icon-arrow-circle-bottom-4x {
@@ -17,7 +13,7 @@ Icon classes can be used entirely standalone. They are named after their origina
 }
 .icon-arrow-circle-bottom {
   background-image: url(sprite.png);
-  background-position: 0px -66px;
+  background-position: -66px -34px;
   width: 8px;
   height: 8px;
 }
